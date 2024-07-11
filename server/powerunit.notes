@@ -1,0 +1,19 @@
+Standort:
+
+
+Konfigrations endpunkt
+
+string ID
+
+int PLZ
+
+
+
+Return: float between 0 an 1
+
+
+location über ip 
+
+
+
+glättung ? 
